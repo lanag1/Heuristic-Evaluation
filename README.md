@@ -63,3 +63,4 @@ Overall Evaluation: The website seems somewhat hard to navigate as all of the na
 
 
 # Site 2: [COVID-19 Vaccine New York](https://covid19vaccine.health.ny.gov/booster-doses)
+![Website for COVID-19 Vaccinations in New York](nycovid.png)
