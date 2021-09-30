@@ -1,7 +1,7 @@
 # Heuristic Evaluation of New York Government Websites
 ### Lana Garrett | DH101 | Fall 2021
 ## About the project
-#### As the we have moved through history, we can see the great strides our world is making in the technological realm. These advances have unfortunately left members of our society in the dark as they feel they do not have access to or knowledge about these technologies. The most impacted group being our parents and grandparents. This impacts many aspects of their lives as they do day to day tasks, such as making calls, setting appointments, etc. Below I will give a heuristic evaluation of some of these goverment web services specifically, the New York ID website and the New York Coronavirus website, to see how usable and accessible these sites are to the older generations.
+#### As the we have moved through history, we can see the great strides our world is making in the technological realm. These advances have unfortunately left members of our society in the dark as they feel they do not have access to or knowledge about these technologies. The most impacted group being our parents and grandparents. This impacts many aspects of their lives as they do day to day tasks, such as making calls, setting appointments, etc. Below I will give a heuristic evaluation of some of these goverment web services through the using severity rating as outlined [here](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/). This scale rates from 1-3 with 3 being the most severe and needing the most attention and fixing. Specifically, we will be looking at the New York ID website and the New York Coronavirus website, to see how usable and accessible these sites are to the older generations.
 ## [Nielsen's 10 Heuristics Explained](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 ### 1: Visibility of System Status 
@@ -29,3 +29,12 @@ Give users a resource for extra help and assistamce.
 ![Website of New York's ID Services](NYID.png)
 #### Backrground Information: This site was set up to inform citizens of the rules and protocalls as well as genral info about getting a New York ID. This site proves to be useful as it also gives you access to many other government resources, such as unemployment benefits, Tax Services, the DMV, etc. 
 ## Heuristic Evaluation
+### 1: Visibility of System Status 
+#### The site is pretty straight forward when it comes tom logging in, creating an account, and with menu options. The only downside is that users may be overwhelmed by all the resources available, expecially those that are not expereinced with tehcnology. 
+###### Severity Ratiting: 2. I would suggest less overall options to choose from to not confuse users. This can be done by making more generalized options for the drop down menu with more extensive options within the generalized options themselves.
+### 2: Match Between System and Real World 
+#### There are not many symbols within the site itself, aside from the outline of the state New York.
+###### Severity Ratiting: 3. I would suggest adding more easily identifiable icons, such as a question mark for the help tab, color diffirentiation between different tabs, etc.
+### 3: User Control and Freedom
+#### There is lots mof ways for the user to navigate this website that are quite intuitive to the general public, including those from the older generation, as most of the parts of the website are simple to navigate by simply clicking. With this being said, a new tab opens whenever a tab is clicked from the drop down menu wich may prove to be very confusing for most as you can not simply go back to your previous tab if you decide to click on another service.
+###### Severity Ratiting: 2. I recommend changing the issue above so users can navigate in one single tab.
