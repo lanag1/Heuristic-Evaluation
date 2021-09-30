@@ -5,7 +5,7 @@
 ## [Nielsen's 10 Heuristics Explained](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 ### 1: Visibility of System Status 
-Users know what their doing on a site as well as the consquences and impact of their actions on the site.
+Users know what their doing on a site as well as the consquences and impact of their actions.
 ### 2: Match Between System and Real World 
 Design of the site should follow real world conventions, making information clearer for users.
 ### 3: User Control and Freedom
@@ -41,7 +41,7 @@ Overall Evaluation: Based off first impression, the website seems somewhat hard 
 ###### Severity Ratiting: 2. I recommend changing the issue above so users can navigate in one single tab.
 ### 4: Consistency and Standards
 #### The theme is consistant throughout the main site. Once you click on items from the drop down menu on the right hand side (three horizontal lines), the theme is slightly different in regards to color. The site swithces from primarily dark blue, a green shade, and white text to black text with lick blue backgrounds. This change in them is not consistant among all the options on the drop down menu.
-###### Severity Ratiting: 3. I would recommend changing all the drop down menu options to the same theme as the general site to avoid any confusion among users and to present a cleaner look as well.
+###### Severity Ratiting: 3. I would recommend changing everything within the drop down menu to the same theme as the general site to avoid any confusion among users and to present a cleaner look as well.
 ### 5: Error Prevention
 #### There are red exclamation marks whenever an error is made. This is a very common symbol as well as color for mistakes.
 ###### Severity Ratiting: 1. This does not need any major changes. One suggestion would be to make the graphics slightly larger so they are more eye-cathcing to the user.
@@ -78,7 +78,7 @@ Overall Evaluation: Based off first impression, the website seems very informati
 ###### Severity Rating: 3. This makes the website very confusing and overwhelming. I suggest taking away one of the menus and consolidating to one clear menu tab.
 ### 4: Consistency and Standards
 #### There is a clear theme across the website and all of its various resources. When taking a further look and clicking on tabs such as "What You Need to Know" under the "A Boost in the Fight" section we start to see some weird spacing. Once we are redirected to the page there is a huge unecessary block of color, and in some cases an image, following the title. This takes up almost the entire page and happens with spacing as you proceed trough the page.
-###### Severity Rating: 2. While the spacing is not a functional issue it does take away from the efficiency and user-friendly nature of the site. I would suggest removing all unecessary spacing from all parts of the site of the general site to avoid any confusion among users and to present a cleaner look as well.
+###### Severity Rating: 2. While the spacing is not a functional issue it does take away from the efficiency and user-friendly nature of the site. I would suggest removing all unecessary spacing from all parts of the site.
 ### 5: Error Prevention
 #### As this is a mainly informative site there were not many places to encounter an error. The error messages I did find were in the "New York State Vax and Win!" tab within. This displayed generic eroor messages such as a triangle with an exclamation point and a message that reads, "There was an error on your page. Please corract any fields and submit again". This was followed by a link that takes you to your first mistake so you can correct it.
 ###### Severity Rating: 1. My recommendation to improve the error messages would be to make the red darker of the message darker and make the triangles red as well so they are more eye catching to the user.
