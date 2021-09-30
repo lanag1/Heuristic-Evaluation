@@ -1,6 +1,6 @@
 # Heuristic Evaluation of New York Government Websites
 ### Lana Garrett | DH101 | Fall 2021
-## About the project
+## About the Project
 #### As the we have moved through history, we can see the great strides our world is making in the technological realm. These advances have unfortunately left members of our society in the dark as they feel they do not have access to or knowledge about these technologies. The most impacted group being our parents and grandparents. This impacts many aspects of their lives as they do day to day tasks, such as making calls, setting appointments, etc. Below I will give a heuristic evaluation of some of these goverment web services through the using severity rating as outlined [here](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/). This scale rates from 1-3 with 3 being the most severe and needing the most attention and fixing. Specifically, we will be looking at the New York ID website and the New York COVID-19 Vaccine portion of the New York Government website, to see how usable and accessible these sites are to the older generations.
 ## [Nielsen's 10 Heuristics Explained](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
@@ -23,7 +23,7 @@ Include only relevant content and features on a site so it is easy to navigate f
 ### 9: Help Users Recognize, Diadnose, and Recover From Errors
 Tell users of the site why and error happened and provide suggestions on how to resolve the issue.
 ### 10: Help and Documentation
-Give users a resource for extra help and assistamce.
+Give users a resource for extra help and assistance.
 
 # Site 1: [New York Governemnt IDs](https://my.ny.gov)
 ![Website of New York's ID Services](NYID.png)
@@ -43,7 +43,7 @@ Overall Evaluation: Based off first impression, the website seems somewhat hard 
 #### The theme is consistant throughout the main site. Once you click on items from the drop down menu on the right hand side (three horizontal lines), the theme is slightly different in regards to color. The site swithces from primarily dark blue, a green shade, and white text to black text with lick blue backgrounds. This change in them is not consistant among all the options on the drop down menu.
 ###### Severity Ratiting: 3. I would recommend changing all the drop down menu options to the same theme as the general site to avoid any confusion among users and to present a cleaner look as well.
 ### 5: Error Prevention
-#### There are red exlamation marks whenever an error is made. This is a very common symbol as well as color for mistakes.
+#### There are red exclamation marks whenever an error is made. This is a very common symbol as well as color for mistakes.
 ###### Severity Ratiting: 1. This does not need any major changes. One suggestion would be to make the graphics slightly larger so they are more eye-cathcing to the user.
 ### 6: Recognition Rather Than Recall
 #### As most of the information was presented in the same color and without any symbols. This would make it hard for a regular user to navigate the site with out having to recall where specific functions, which is exactly what a site should avoid.
@@ -75,12 +75,10 @@ Overall Evaluation: Based off first impression, the website seems very informati
 ###### Severity Rating: 2. I would suggest the addition of symbols to the site to help users easily get to where they need to go. This could include a calendar symbol by the appointment button.
 ### 3: User Control and Freedom
 #### There are to many dorp down menus on the site which proves to be confusing. There is s drop down menu on the left hand side as well as the right hand side and both can be open at the same time.
-generic social media symbols for sharing information and resources.
 ###### Severity Rating: 3. This makes the website very confusing and overwhelming. I suggest taking away one of the menus and consolidating to one clear menu tab.
 ### 4: Consistency and Standards
 #### There is a clear theme across the website and all of its various resources. When taking a further look and clicking on tabs such as "What You Need to Know" under the "A Boost in the Fight" section we start to see some weird spacing. Once we are redirected to the page there is a huge unecessary block of color, and in some cases an image, following the title. This takes up almost the entire page and happens with spacing as you proceed trough the page.
-###### Severity Rating: 2. While the spacing is not a functional issue it does take away from the efficiency and user-friendly nature of the site. I would suggest removing all unecessary spacing from all parts of the site.
-as the general site to avoid any confusion among users and to present a cleaner look as well.
+###### Severity Rating: 2. While the spacing is not a functional issue it does take away from the efficiency and user-friendly nature of the site. I would suggest removing all unecessary spacing from all parts of the site of the general site to avoid any confusion among users and to present a cleaner look as well.
 ### 5: Error Prevention
 #### As this is a mainly informative site there were not many places to encounter an error. The error messages I did find were in the "New York State Vax and Win!" tab within. This displayed generic eroor messages such as a triangle with an exclamation point and a message that reads, "There was an error on your page. Please corract any fields and submit again". This was followed by a link that takes you to your first mistake so you can correct it.
 ###### Severity Rating: 1. My recommendation to improve the error messages would be to make the red darker of the message darker and make the triangles red as well so they are more eye catching to the user.
